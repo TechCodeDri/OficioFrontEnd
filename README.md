@@ -4,7 +4,7 @@
 
  Acredito que o desenvolvimento front-end vai além de escrever código – trata-se de entender as necessidades do usuário e criar interfaces que sejam não apenas visualmente atraentes, mas também intuitivas e acessíveis. Estou sempre atento às últimas tendências do mercado, buscando cursos, tutoriais e praticando com novos frameworks e bibliotecas.
 
- Visite meu site: https://drica2023.github.io/OficioFrontEnd/
+ Visite meu site: https://TechCodeDri.github.io/OficioFrontEnd/
 
  Tecnologias utilizadas:
  - HTML
