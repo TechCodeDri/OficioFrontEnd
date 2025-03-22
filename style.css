@@ -15,7 +15,7 @@ margin: 10px;
 padding: 20px;
 }
  
-img{
+.imagem-foto >img{
     background-color:#6b705c;
     padding: 15px;
     width: 400px;
@@ -39,34 +39,22 @@ p{
     font-size: 25px;
 }
 
+
+
 .texto-centralizado{
     text-align: center;
-    font-size: 25px;
-
-}
-
-.texto-centralizado{
     margin-top: 15px;
     margin-bottom: 50px;
     font-size: 30px;
 }
 
-.flex-container2 {
+.flex-container {
     display: flex;
     justify-content: space-around;
     
     
   }
 
-  .flex-container > div {
-  
-    width: 100px;
-    margin-top: 10px;
-    text-align: center;
-    line-height: 75px;
-    font-size: 30px;
-    
-  }
 
  div.solid{    
     text-align: center;
@@ -81,4 +69,34 @@ p{
  b{
     color:#6b705c;
  }
+
+.texto-portifolio{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    margin-top: 220px;
+    margin-left: 20px;
+    max-width: 8%;
+    max-height: 15%;
+
+
+}
+
+.flex-container2{
+    display: flex;
+    flex-direction: row;
+    gap: 150px;
+    }
+
+
+    .flex-container2 >div img {
+        padding-top: 15px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+    
+    }
+    
+
+
+
 
